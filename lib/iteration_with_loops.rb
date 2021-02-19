@@ -14,13 +14,12 @@ while element_index < mixed_data[row_index].count do
 if mixed_data[row_index][element_index].class == String
 #puts "bob" 
 message << mixed_data[row_index][element_index] + " "
- binding.pry
+ #binding.pry
 
 end
 element_index += 1
 end 
 
-  
  row_index += 1
  
 end

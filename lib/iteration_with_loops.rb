@@ -1,5 +1,5 @@
 def join_nested_strings(mixed_data)
-  
+
   message = ""
   row_index = 0 
   
